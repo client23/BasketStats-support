@@ -18,6 +18,10 @@ Purpose:
 - App Store privacy policy URL
 - public legal and support contact pages
 
+Public App Store URL:
+
+- `https://apps.apple.com/app/basketstats-pro/id6757268387`
+
 Deployment:
 
 - local/manual deployment uses `zsh Scripts/deploy_support_site.sh`
